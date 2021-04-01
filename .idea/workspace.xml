@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7cc11e6-57ef-46a8-b995-3b4c3b4d4933" name="Default Changelist" comment="" />
+    <list default="true" id="a7cc11e6-57ef-46a8-b995-3b4c3b4d4933" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Randomness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python-Principles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Principles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +48,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Randomness">
     <configuration name="Online_status" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Principles" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,8 +73,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Randomness" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Principles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Randomness.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Randomness" />
         <item itemvalue="Python.Online_status" />
       </list>
     </recent_temporary>
@@ -68,30 +114,46 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1132" y="488" key="FileChooserDialogImpl" timestamp="1617294715827">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1132" y="488" key="FileChooserDialogImpl/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617294715827" />
-    <state width="1256" height="401" key="GridCell.Tab.0.bottom" timestamp="1617295135389">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1483" height="256" key="GridCell.Tab.0.bottom" timestamp="1617298181734">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1617298181734" />
     <state width="1256" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
-    <state width="1256" height="401" key="GridCell.Tab.0.center" timestamp="1617295135389">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1483" height="256" key="GridCell.Tab.0.center" timestamp="1617298181734">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1617298181734" />
     <state width="1256" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
-    <state width="1256" height="401" key="GridCell.Tab.0.left" timestamp="1617295135389">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1483" height="256" key="GridCell.Tab.0.left" timestamp="1617298181733">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1617298181733" />
     <state width="1256" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
-    <state width="1256" height="401" key="GridCell.Tab.0.right" timestamp="1617295135389">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1483" height="256" key="GridCell.Tab.0.right" timestamp="1617298181734">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state width="1483" height="256" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1617298181734" />
     <state width="1256" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
-    <state x="781" y="345" key="SettingsEditor" timestamp="1617294742062">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="459" y="237" key="SettingsEditor" timestamp="1617297879218">
+      <screen x="0" y="0" width="1504" height="963" />
     </state>
+    <state x="459" y="237" key="SettingsEditor/0.0.1504.963@0.0.1504.963" timestamp="1617297879218" />
     <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617294742062" />
   </component>
 </project>
