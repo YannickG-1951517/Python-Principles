@@ -5,12 +5,13 @@ def online_count(dictionary):
         if "online" in dictionary[i]:
             counter += 1
 
-    print(counter)
+    return counter
 
 statuses = {
     "Alice": "online",
     "Bob": "offline",
     "Eve": "online",
+    "Tiemen": "online"
 }
 
-online_count(statuses)
+print(online_count(statuses))
