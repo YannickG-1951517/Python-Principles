@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7cc11e6-57ef-46a8-b995-3b4c3b4d4933" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Double_Letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counting_syllables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thousands_separator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.Randomness">
+  <component name="RunManager" selected="Python.Thousands_separator">
+    <configuration name="Counting_syllables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Principles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Counting_syllables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Online_status" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Principles" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,8 +117,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Thousands_separator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Principles" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Thousands_separator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Thousands_separator" />
+        <item itemvalue="Python.Counting_syllables" />
         <item itemvalue="Python.Randomness" />
         <item itemvalue="Python.Online_status" />
       </list>
@@ -131,26 +176,42 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1132" y="488" key="FileChooserDialogImpl/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617294715827" />
-    <state width="1483" height="256" key="GridCell.Tab.0.bottom" timestamp="1617298246420">
+    <state width="1483" height="317" key="GridCell.Tab.0.bottom" timestamp="1617301362972">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="256" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1617298246420" />
+    <state width="1483" height="317" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1617301362972" />
     <state width="1256" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
-    <state width="1483" height="256" key="GridCell.Tab.0.center" timestamp="1617298246420">
+    <state width="1483" height="317" key="GridCell.Tab.0.center" timestamp="1617301362972">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="256" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1617298246420" />
+    <state width="1483" height="317" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1617301362972" />
     <state width="1256" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
-    <state width="1483" height="256" key="GridCell.Tab.0.left" timestamp="1617298246420">
+    <state width="1483" height="317" key="GridCell.Tab.0.left" timestamp="1617301362972">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="256" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1617298246420" />
+    <state width="1483" height="317" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1617301362972" />
     <state width="1256" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
-    <state width="1483" height="256" key="GridCell.Tab.0.right" timestamp="1617298246420">
+    <state width="1483" height="317" key="GridCell.Tab.0.right" timestamp="1617301362972">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1483" height="256" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1617298246420" />
+    <state width="1483" height="317" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1617301362972" />
     <state width="1256" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.363.1920.1040@0.0.2560.1400" timestamp="1617295135389" />
+    <state width="1483" height="317" key="GridCell.Tab.1.bottom" timestamp="1617301362975">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1617301362975" />
+    <state width="1483" height="317" key="GridCell.Tab.1.center" timestamp="1617301362973">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1617301362973" />
+    <state width="1483" height="317" key="GridCell.Tab.1.left" timestamp="1617301362972">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1617301362972" />
+    <state width="1483" height="317" key="GridCell.Tab.1.right" timestamp="1617301362974">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1483" height="317" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1617301362974" />
     <state x="459" y="237" key="SettingsEditor" timestamp="1617298485990">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
